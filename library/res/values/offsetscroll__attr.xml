@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Custom styleables for ScrollBarOffsetListView -->
+
+<resources>
+    <declare-styleable name="OffsetListView">
+        <attr name="scrollBarPaddingTop"  format="dimension"/>
+        <attr name="scrollBarPaddingBottom" format="dimension"/>
+    </declare-styleable>
+</resources>
